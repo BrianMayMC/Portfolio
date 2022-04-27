@@ -1,0 +1,16 @@
+ARTIFACT_OF_THE_DROWNED:
+  name: "&bArtifact of the &l&nDrowned"
+  lore:
+    - "&bArtifact of the Drowned lore"
+ARTIFACT_OF_JUSTICE:
+  name: "&bArtifact of &l&nJustice"
+  lore:
+    - "&bArtifact of Justice lore"
+ARTIFACT_OF_THE_DAMNED:
+  name: "&bArtifact of the &l&nDamned"
+  lore:
+    - "&bArtifact of the Damned lore"
+ARTIFACT_OF_THE_LOST:
+  name: "&bArtifact of the &l&nLost"
+  lore:
+    - "&bArtifact of the Lost lore"

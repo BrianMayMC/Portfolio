@@ -1,0 +1,14 @@
+name: AlbionCore
+version: '${project.version}'
+main: me.nootnoot.albioncore.AlbionCore
+api-version: 1.18
+authors: [ nootnoot ]
+description: Core for the albion realm on VentedMC
+website: https://avalondev.net
+commands:
+  test:
+    description: test command
+  testspell:
+    description: test command
+  testpouch:
+    description: test command
