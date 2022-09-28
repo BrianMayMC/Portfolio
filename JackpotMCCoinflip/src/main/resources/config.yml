@@ -1,8 +1,0 @@
-#Minimum & maximum coinflip amount
-min-amount: 10000
-max-amount: 1000000000
-#how fast should the menu update?
-tick-speed: 10
-#how many times should it tick in total (range to keep it random)?
-tick-amount: "15-20"
-sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
