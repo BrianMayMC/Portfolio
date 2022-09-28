@@ -1,0 +1,10 @@
+name: LuckyblockChestRefill
+version: '${project.version}'
+main: me.nootnoot.luckyblockchestrefill.LuckyblockChestRefill
+api-version: 1.18
+authors: [nootnoot]
+description: Chest refill plugin for luckyblock (part of monuments plugin)
+website: https://avalondev.net
+commands:
+  refillchest:
+    description: Main command.

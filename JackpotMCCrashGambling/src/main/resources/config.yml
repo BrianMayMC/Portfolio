@@ -1,0 +1,13 @@
+#The ticks between increases
+increase-delay: 15
+#Max amount of increases
+amount: 30
+
+max-money: 1000000
+#When should the glass go up 1 layer?
+
+#When should the glass go up 1 layer?
+increment-panel: 0.04
+#increase radius
+min-increase: 0.00
+max-increase: 0.10

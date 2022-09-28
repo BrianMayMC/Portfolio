@@ -1,0 +1,10 @@
+name: LuckyblockLuckyblocks
+version: '${project.version}'
+main: me.nootnoot.luckyblockluckyblocks.LuckyblockLuckyblocks
+api-version: 1.18
+authors: [nootnoot]
+description: Random lucky block spawns under a specific y level
+website: https://avalondev.net
+commands:
+  luckyblock:
+    description: Main command

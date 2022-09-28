@@ -1,0 +1,14 @@
+menu:
+  name: "&bBlack Market"
+  size: 27
+  items:
+    1:
+      material: "FIREWORK_STAR"
+      name: "&bBlacksmith &7(x1)"
+      type: BLACKSMITH
+      lore:
+        - "&7Click here to buy x1 Blacksmith."
+        - ""
+        - "&dPrice: 50 Nether Stars"
+      price: 50
+      slot: 5

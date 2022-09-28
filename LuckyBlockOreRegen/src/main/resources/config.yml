@@ -1,0 +1,12 @@
+# The duration of respawning in seconds.
+respawn-cooldown: 30
+title-announcement: "&c&lOres have been respawned!"
+subtitle-announcement: "&c&lGo check it out!"
+fade-in: 10
+show-time: 5
+fade-out: 10
+text-announcement:
+  - "&cOres have been respawned!"
+  - "&cGo check it out!"
+regions:
+  - "nether"

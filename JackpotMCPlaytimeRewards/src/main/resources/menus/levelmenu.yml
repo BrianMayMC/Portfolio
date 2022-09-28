@@ -1,0 +1,4 @@
+menu:
+  name: "&7Playtime Rewards"
+  size: 54
+  #Items are automatically added based on the level.yml config

@@ -1,0 +1,7 @@
+team-prefix: "&6⛨ Teams&7 &f»"
+team-size: 5
+team-top-save-delay: 60
+database-support-enabled: false
+database-table: "teams_top_red"
+homes-enabled: false
+balance-enabled: false

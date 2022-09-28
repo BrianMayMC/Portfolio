@@ -1,0 +1,69 @@
+menu:
+  name: "&4Faction Upgrades"
+  size: 54
+  items:
+    1:
+      material: REDSTONE
+      name: "&4Faction Size"
+      upgrade: SIZE
+      lore:
+        - "&7Click here to upgrade your faction size"
+        - ""
+        - "&7Current level: %current%"
+        - "&7Current size: %size%"
+        - "&7Next level size: %next%"
+        - "&7Cost: %cost%"
+      slot: 0
+    2:
+      material: BLAZE_ROD
+      name: "&4Faction Power"
+      upgrade: POWER
+      lore:
+        - "&7Click here to upgrade your faction power"
+        - ""
+        - "&7Current level: %current%"
+        - "&7Current max-power: %power%"
+        - "&7Next level max-power: %next%"
+        - "&7Cost: %cost%"
+      slot: 1
+upgrades:
+  size:
+    #0 = no upgrades. Keep it the same value as config.yml
+    0:
+      value: 5
+      cost: 1000
+    1:
+      value: 6
+      cost: 2000
+    2:
+      value: 7
+      cost: 3000
+    3:
+      value: 8
+      cost: 4000
+    4:
+      value: 9
+      cost: 5000
+    5:
+      value: 10
+      cost: 6000
+  power:
+    0:
+      value: 20
+      cost: 10000
+    1:
+      value: 25
+      cost: 20000
+    2:
+      value: 30
+      cost: 30000
+    3:
+      value: 35
+      cost: 40000
+    4:
+      value: 40
+      cost: 50000
+    5:
+      value: 45
+      cost: 60000
+  

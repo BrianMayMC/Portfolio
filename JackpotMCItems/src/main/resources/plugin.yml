@@ -1,0 +1,16 @@
+name: JackpotMCItems
+version: '${project.version}'
+main: me.nootnoot.jackpotmcitems.JackpotMCItems
+api-version: 1.18
+authors: [ nootnoot ]
+description: Custom items for JackpotMC
+website: https://avalondev.net
+commands:
+  customitems:
+    description: The main command for custom items.
+    aliases:
+      - customi
+      - cis
+      - custi
+  blackmarket:
+    description: command for black market.

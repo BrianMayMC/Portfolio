@@ -1,0 +1,13 @@
+name: LuckyblockAirdrops
+version: '${project.version}'
+main: me.nootnoot.luckyblockairdrops.LuckyblockAirdrops
+api-version: 1.18
+authors: [nootnoot]
+description: Air drop system for Luckyblock
+website: https://avalondev.net
+depend: [dynmap]
+commands:
+  airdrop:
+    description: Main command
+  airdropitems:
+    description: Used for adding items to airdrops.

@@ -1,0 +1,10 @@
+name: JackpotMCBountyHunters
+version: '${project.version}'
+main: me.nootnoot.jackpotmcbountyhunters.JackpotMCBountyHunters
+api-version: 1.18
+authors: [nootnoot]
+description: Bounty plugin for JackpotMC
+website: https://avalondev.net
+commands:
+  bounty:
+    description: Command for bounties.

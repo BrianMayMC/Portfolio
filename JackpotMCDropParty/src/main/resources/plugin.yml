@@ -1,0 +1,10 @@
+name: JackpotMCDropParty
+version: '${project.version}'
+main: me.nootnoot.jackpotmcdropparty.JackpotMCDropParty
+api-version: 1.18
+authors: [nootnoot]
+description: Custom drop party plugin for JackpotMC
+website: https://avalondev.net
+commands:
+  dropparty:
+    description: "main command"

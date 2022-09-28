@@ -1,0 +1,11 @@
+name: JackpotMCCoinflip
+version: '${project.version}'
+main: me.nootnoot.jackpotmccoinflip.JackpotMCCoinflip
+api-version: 1.18
+authors: [ nootnoot ]
+description: Coinflip plugin for JackpotMC
+website: https://avalondev.net
+commands:
+  coinflip:
+    description: Command for coinflips.
+    aliases: [cf]

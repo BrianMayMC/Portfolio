@@ -1,0 +1,25 @@
+menu:
+  name: "&8COINFLIP GAMES"
+  size: 36
+  items:
+    previous:
+      material: "PAPER"
+      slot: 30
+      name: "&c&lPrevious Page"
+      lore:
+        - "&7Click to go to the previous page."
+      functionality: "PREVIOUS"
+    next:
+      material: "PAPER"
+      name: "&2&lNext Page"
+      slot: 32
+      lore:
+        - "&7Click to go to the next page."
+      functionality: "NEXT"
+    create:
+      material: "NETHER_STAR"
+      name: "&a&l&nCreate Game"
+      slot: 31
+      lore:
+        - "&7Click to create a new game."
+      functionality: "CREATE"

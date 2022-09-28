@@ -1,0 +1,13 @@
+prefix: "&6&l[Bounty]"
+bounty-sound: "ENTITY_PLAYER_LEVELUP"
+broadcast-set: "%prefix% &e%player%'s bounty has been increased to $%amount%!"
+bounty-view: "%prefix% &e%player%'s bounty is currently $%amount%"
+no-bounty-view: "%prefix% &e%player% does not have a bounty!"
+bounty-force-set: "%prefix% &eForcefully set %player%'s bounty to $%amount%."
+bounty-set: "%prefix% &eYour bounty has been set to $%amount%"
+bounty-force-remove: "%prefix% &eForcefully removed %player%'s bounty."
+bounty-remove: "%prefix% &eYour bounty has been forcefully removed."
+
+broadcast-bounty-claim: "%prefix% &e%player%'s bounty of $%amount% has been claimed by %killer%!"
+bounty-lose: "%prefix% &eYour bounty has been claimed by %killer%!"
+bounty-claim: "%prefix% &eYou have claimed %player%'s bounty of $%amount%!"

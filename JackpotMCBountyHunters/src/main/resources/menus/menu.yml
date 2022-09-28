@@ -1,0 +1,25 @@
+menu:
+  name: "&7Bounty Top"
+  size: 54
+  items:
+    sign:
+      material: "OAK_SIGN"
+      slot: 48
+      name: "&6Set Bounty (&7Click here)"
+      lore:
+        - "&7Click here to set a bounty"
+        - "&7Fill in a player's name on the first row"
+        - "&7and the amount on the second row!"
+    barrier:
+      material: "BARRIER"
+      slot: 49
+      name: "&cClose (&7Click here)"
+      lore:
+        - "&7Click here to close the menu."
+    book:
+      material: "BOOK"
+      slot: 50
+      name: "&eView Information"
+      lore:
+        - "&7In this menu you can"
+        - "&7view the &eTOP 8&7 bounties."

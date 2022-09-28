@@ -1,0 +1,11 @@
+name: JackpotMCLifesteal
+version: '${project.version}'
+main: me.nootnoot.jackpotmclifesteal.JackpotMCLifesteal
+api-version: 1.18
+authors: [nootnoot]
+description: Lifesteal plugin for JackpotMC
+website: https://avalondev.net
+commands:
+  hearts:
+    description: Command for hearts.
+    aliases: [heart, lifesteal]

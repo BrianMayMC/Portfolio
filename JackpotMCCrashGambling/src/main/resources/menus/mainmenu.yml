@@ -1,0 +1,37 @@
+menu:
+  name: "&7Crash Gambling"
+  size: 54
+  items:
+    book:
+      name: "&6&lCrash Gambling"
+      material: "BOOK"
+      slot: 13
+      lore:
+        - "&7In this game, you will battle the odds"
+        - "&7and test your luck!"
+        - ""
+        - "&aClick the sign below to place your bet!"
+      functionality: "NONE"
+    sign:
+      name: "&a&lPlace Bet"
+      material: "OAK_SIGN"
+      slot: 31
+      lore:
+        - "&7Click here to place your bet"
+        - "&7and start the game!"
+      functionality: "BET"
+    close:
+      name: "&c&lClose"
+      material: "BARRIER"
+      slot: 49
+      lore:
+        - "&7(Left-Click) to close this menu"
+      functionality: "CLOSE"
+    previous:
+      name: "&b&lPrevious Games"
+      material: "TORCH"
+      slot: 53
+      lore:
+        - "THIS LORE IS HARD CODED IN, ASK NOOT TO CHANGE"
+        - "CHANGING THIS DOES NOTHING!"
+      functionality: "PREVIOUS"

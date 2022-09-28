@@ -1,0 +1,10 @@
+name: JackpotMCPlaytimeRewards
+version: '${project.version}'
+main: me.nootnoot.jackpotmcplaytimerewards.JackpotMCPlaytimeRewards
+api-version: 1.18
+authors: [ nootnoot ]
+description: Playtime rewards with levels plugin for JackpotMC
+website: https://avalondev.net
+commands:
+  playtimerewards:
+    description: Main command.

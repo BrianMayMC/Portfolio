@@ -1,0 +1,38 @@
+#The duration of the combat tag
+combat-tag: 15
+combat-actionbar: "&4Combat Tag: &a%seconds% left!"
+combat-expired-actionbar: "&4Combat Tag: &aEXPIRED!"
+combat-tag-message: "&c&l(!)&c You have engaged in combat with %player_name% for %seconds% seconds!"
+combat-expired-message: "&a&l(!)&a You are no longer in combat!"
+#Enderpearl cooldown in seconds.
+enderpearl-cooldown: 15
+enderpearl-cooldown-message: "&c&l(!)&c Enderpearl can be used in %seconds% seconds..."
+enderpearl-actionbar: "&6&lEnderpearl &7- (&e%time%&7)"
+
+blocked-message: "&4You cannot perform this command in combat!"
+#this allows any command starting with what you put
+allowed-commands:
+    - "/tell"
+#this allows any command that contains this.
+allowed-contains:
+    - "t"
+#duration of grace in minutes.
+grace-enabled: false
+pearl-cooldown-enabled: false
+luckyblock-blocked-stuff: false
+grace-duration: 30
+target-on-grace-message: "&c&l(!)&c Player is on grace!"
+player-on-grace-message: "&c&l(!)&c You are on grace! do /pvp off to toggle your grace!"
+death-messages:
+    void: '&c☠ &f%player% &cwas consumed by the void'
+    void-player: '&c☠ &f%killer% &cthrew &f%player%&c into the void'
+    shoot: '&c☠ &f%killer% &cshot &f%player% &fwith &c⚔ %item_name%'
+    drown: '&c☠ &f%player% &ccant swim'
+    lava: '&c☠ &f%player% &cfell into a lava pit'
+    fall: '&c☠ &f%player% &ccant fly'
+    magic: '&c☠ &f%player% &cwas killed by magic'
+    magic-player: '&c☠ &f%killer% &ckilled &f%player%'
+    fire: '&c☠ &f%player% &cwas set on fire :0'
+    explosion-player: '&c☠ &f%killer% &cblew up &f%player%'
+    none: '&c☠ &f%player% &cdied'
+    sword-kill: '&c☠ &f%killer% &ckilled &f%player% &fwith &c⚔ &f%item_name%'

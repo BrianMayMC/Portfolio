@@ -1,0 +1,7 @@
+name: JackpotMCFastCrystal
+version: '${project.version}'
+main: me.nootnoot.jackpotmcfastcrystal.JackpotMCFastCrystal
+api-version: 1.18
+authors: [nootnoot]
+description: Fast crystal plugin for JackpotMC
+website: https://avalondev.net
