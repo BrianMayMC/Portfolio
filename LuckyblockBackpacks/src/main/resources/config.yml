@@ -1,5 +1,0 @@
-first-join-slot: 3
-backpack:
-  name: "&b%player%'s Backpack"
-  lore:
-    - "&7Right click this item to open your backpack!"
