@@ -1,7 +1,0 @@
-#upping this by a whole number affects A LOT. (can be decimal)
-item-fly-intensity: 0.7
-#upping this will make the item fly higher. (VERY SENSITIVE)
-item-fly-height: 1
-#how many ticks it takes for 1 item to spawn. (has to be at least one for plugin not to affect server performance)
-item-delay: 10
-item:

@@ -1,7 +1,0 @@
-#name: LuckyblockServerIcon
-#version: '${project.version}'
-#main: me.nootnoot.luckyblockservericon.LuckyblockServerIcon
-#api-version: 1.19
-#authors: [ nootnoot ]
-#description: Alternating server icon plugin for Luckyblock
-#website: https://avalondev.net
